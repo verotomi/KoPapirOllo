@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Kő - Papír - Olló</string>
+    <string name="stone">Kő</string>
+    <string name="paper">Papír</string>
+    <string name="scissor">Olló</string>
+    <string name="your_choice">A te választásod</string>
+    <string name="computers_choice">A gép választása</string>
+    <string name="standing">Eredmény: </string>
+    <string name="people">Ember: </string>
+    <string name="computer">Computer: </string>
+    <string name="stone_stronger">A kő széttöri az ollót!</string>
+    <string name="paper_stronger">A papír letakarja a követ!</string>
+    <string name="scissor_stronger">Az olló elvágja a papírt!</string>
+    <string name="winner_people">Te nyertél!</string>
+    <string name="winner_computer">A gép nyert!</string>
+    <string name="winner_noone">Döntetlen! Nincs nyertes!</string>
+    <string name="text_Copyright">© 2018 - Verovszki Tamás"</string>
+</resources>
